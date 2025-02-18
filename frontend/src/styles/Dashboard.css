@@ -1,0 +1,11 @@
+.dashboard-container {
+  @extend .container;
+}
+
+.logout-button {
+  background: #dc3545;
+}
+
+.logout-button:hover {
+  background: #c82333;
+}
